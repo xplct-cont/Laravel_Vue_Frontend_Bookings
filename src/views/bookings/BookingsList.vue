@@ -64,6 +64,11 @@ export default {
       this.getData();
     },
 }
+
+
+    
+
+
 </script>
 
 <style>
